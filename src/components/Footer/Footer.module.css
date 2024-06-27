@@ -7,7 +7,7 @@
     justify-content: center;
     background-color: black;
     color: #fff;
-    border-top: 2px solid #ffe100;
+    border-top: 2px solid #4a2bf8;
     padding: 0.5 rem;
 
 }
@@ -18,5 +18,5 @@
 }
 
 footer h2 span {
-    color: #ffe100;
+    color: #4a2bf8;
 }
