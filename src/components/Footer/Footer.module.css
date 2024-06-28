@@ -1,0 +1,22 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: #fff;
+    border-top: 2px solid #fd0000;
+    padding: 0.5 rem;
+
+}
+
+.footer h2 {
+    font-size: 1 rem;
+    font-weight: 500;
+}
+
+footer h2 span {
+    color: #fd0000;
+}
